@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="MouseEvent.jnlp">
+  <information>
+    <title>MouseEvent</title>
+    <vendor>Kyle7</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="MouseEvent.jar" size="1895" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="mouseevent.MouseEvent"  name="MouseEvent" />
+  <update check="always"/>
+</jnlp>
